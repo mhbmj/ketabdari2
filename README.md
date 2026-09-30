@@ -1,4 +1,4 @@
-# Ketabdari (کتابداری) — Library Management API
+# Ketabdari (کتابداری)
 
 سرویس مدیریت کتابخانه بر پایه FastAPI، SQLModel و PostgreSQL 16 با معماری چندلایه (Layered Architecture)، تفکیک کامل لایه‌ها، اعتبارسنجی ورودی‌ها، کنترل موجودی فیزیکی و امانت با تراکنش‌های همزمان امن.
 
